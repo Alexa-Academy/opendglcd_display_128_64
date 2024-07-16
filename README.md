@@ -8,6 +8,6 @@ Simple oscilloscope for Arduino Uno R3 to see the library working.
   
   
 The usage is described on those two YouTube videos (in Italian):  
-  • https://youtu.be/nOQjNIsfjKQ  
-  • https://youtu.be/FerUJMYekME  
+&ensp;• https://youtu.be/nOQjNIsfjKQ  
+&ensp;• https://youtu.be/FerUJMYekME  
 
